@@ -1,0 +1,15 @@
+{
+  "name": "Gmail-SMS-Notifier",
+  "version": "0.0.0",
+  "authors": [
+    "pyprism <git.pyprism@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

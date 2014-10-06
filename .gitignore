@@ -1,0 +1,8 @@
+.idea
+share
+lib
+include
+bin
+Mail/secret.txt
+*.pyc
+*.pyo
