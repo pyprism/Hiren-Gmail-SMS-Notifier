@@ -1,2 +1,0 @@
-Hiren-Gmail-SMS-Notifier
-==================
